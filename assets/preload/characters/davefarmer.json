@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DAVEIDLE"
+		},
+		{
+			"offsets": [
+				153,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DAVELEFT"
+		},
+		{
+			"offsets": [
+				-34,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DAVEDOWN"
+		},
+		{
+			"offsets": [
+				61,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DAVEUP"
+		},
+		{
+			"offsets": [
+				-63,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DAVERIGHT"
+		},
+		{
+			"offsets": [
+				163,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "DAVEMISSLEFT"
+		},
+		{
+			"offsets": [
+				-17,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DAVEMISSDOWN"
+		},
+		{
+			"offsets": [
+				64,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "DAVEMISSUP"
+		},
+		{
+			"offsets": [
+				-63,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "DAVEMISSRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				68
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "deathdavefirstdeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-36
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathdaveaccept",
+			"indices": []
+		},
+		{
+			"offsets": [
+				111,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "voiceline",
+			"indices": [],
+			"name": "DAVEVOICELINE"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-36
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathdaveloop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/davefarmer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "davefarmer",
+	"flip_x": true,
+	"healthbar_colors": [
+		59,
+		20,
+		55
+	],
+	"camera_position": [
+		-40,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
