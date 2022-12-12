@@ -1,0 +1,32 @@
+{
+	"storyName": "setans slaughterhouse",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chapterone",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"setan",
+		"darrel",
+		""
+	],
+	"songs": [
+		[
+			"disregarded",
+			"setan",
+			[
+				126,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "3DDF: Chapter 1",
+	"hiddenUntilUnlocked": false
+}

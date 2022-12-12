@@ -1,0 +1,32 @@
+{
+	"storyName": "farmer's rotten corn maze",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chaptertwo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"verrotten",
+			"farmer",
+			[
+				26,
+				13,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"dave",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "3DDF: Chapter 2"
+}
